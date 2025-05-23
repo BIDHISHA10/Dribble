@@ -1,5 +1,7 @@
 # Project Responsive Web Design using Bootstrap
 ## Date:23-05-2025
+# Name:GOGINENI BIDHISHA
+# Reg No:212223040048
 
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
